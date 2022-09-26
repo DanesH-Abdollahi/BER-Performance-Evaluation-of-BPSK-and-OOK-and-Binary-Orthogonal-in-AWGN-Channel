@@ -1,6 +1,6 @@
-## Bit Error Rate Performance of BPSK & OOK & Binary Orthogonal Modulation in AWGN Channel in Matlab
+# Bit Error Rate Performance of BPSK & OOK & Binary Orthogonal Modulation in AWGN Channel in Matlab
 
-### Initial setup
+## Initial setup
 
 ```matlab
 N = 1e5 ; % Number Of Bits
@@ -10,7 +10,7 @@ M = 10 ; % Sample Per Symbol (SPS)
 ```
 
 ---
-### BPSK Modulation Results
+## BPSK Modulation Results
 ![BPSK PSD](/images/BPSK_PSD.png)
 
 ![BPSK Constellation](/images/BPSK_Constellation.png)
@@ -20,7 +20,7 @@ M = 10 ; % Sample Per Symbol (SPS)
 ---
 
 ---
-### OOK Modulation Results
+## OOK Modulation Results
 ![OOK PSD](/images/OOK_PSD.png)
 
 ![OOK Constellation](/images/OOK_Constellation.png)
@@ -30,7 +30,7 @@ M = 10 ; % Sample Per Symbol (SPS)
 ---
 
 ---
-### Binary Orthogonal Modulation Results
+## Binary Orthogonal Modulation Results
 ![BO PSD](/images/BO_PSD.png)
 
 ![BO Constellation](/images/BO_Constellation.png)
@@ -38,7 +38,7 @@ M = 10 ; % Sample Per Symbol (SPS)
 ![BO BER](/images/BO_BER.png)
 
 ---
-### BER Comparison of all Modulations
+## BER Comparison of all Modulations
 
 ![BER](/images/Totall_BER.png)
 
