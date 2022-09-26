@@ -9,6 +9,7 @@ Eb_N0_dB = 0 : 0.1 : 13 ;
 M = 10 ; % Sample Per Symbol (SPS)
 ```
 
+---
 ### BPSK Modulation Results
 ![BPSK PSD](/images/BPSK_PSD.png)
 
@@ -16,6 +17,9 @@ M = 10 ; % Sample Per Symbol (SPS)
 
 ![BPSK BER](/images/BPSK_BER.png)
 
+---
+
+---
 ### OOK Modulation Results
 ![OOK PSD](/images/OOK_PSD.png)
 
@@ -23,6 +27,9 @@ M = 10 ; % Sample Per Symbol (SPS)
 
 ![OOK BER](/images/OOK_BER.png)
 
+---
+
+---
 ### Binary Orthogonal Modulation Results
 ![BO PSD](/images/BO_PSD.png)
 
@@ -30,6 +37,7 @@ M = 10 ; % Sample Per Symbol (SPS)
 
 ![BO BER](/images/BO_BER.png)
 
+---
 ### BER Comparison of all Modulations
 
 ![BER](/images/Totall_BER.png)
