@@ -1,4 +1,4 @@
-# Bit Error Rate Performance of BPSK & OOK & Binary Orthogonal Modulation in AWGN Channel in Matlab
+# Bit Error Rate Performance Evaluation of BPSK & OOK & Binary Orthogonal Modulation in AWGN Channel in Matlab
 
 ## Initial setup
 
