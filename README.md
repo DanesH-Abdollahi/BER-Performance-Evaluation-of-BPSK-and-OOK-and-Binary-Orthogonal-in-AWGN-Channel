@@ -9,38 +9,64 @@ Eb_N0_dB = 0 : 0.1 : 13 ;
 M = 10 ; % Sample Per Symbol (SPS)
 ```
 
+# Results
+
 ---
+
 ## BPSK Modulation Results
-![BPSK PSD](/images/BPSK_PSD.png)
 
-![BPSK Constellation](/images/BPSK_Constellation.png)
+<p align="center">
+  <img src="/images/BPSK_PSD.png" />
+</p>
 
-![BPSK BER](/images/BPSK_BER.png)
+<p align="center">
+  <img src="/images/BPSK_Constellation.png" />
+</p>
+
+<p align="center">
+  <img src="/images/BPSK_BER.png"/>
+</p>
 
 ---
 
 ---
 ## OOK Modulation Results
-![OOK PSD](/images/OOK_PSD.png)
 
-![OOK Constellation](/images/OOK_Constellation.png)
+<p align="center">
+  <img src="/images/OOK_PSD.png" />
+</p>
 
-![OOK BER](/images/OOK_BER.png)
+<p align="center">
+  <img src="/images/OOK_Constellation.png" />
+</p>
+
+<p align="center">
+  <img src="/images/OOK_BER.png"/>
+</p>
 
 ---
 
 ---
 ## Binary Orthogonal Modulation Results
-![BO PSD](/images/BO_PSD.png)
 
-![BO Constellation](/images/BO_Constellation.png)
+<p align="center">
+  <img src="/images/BO_PSD.png" />
+</p>
 
-![BO BER](/images/BO_BER.png)
+<p align="center">
+  <img src="/images/BO_Constellation.png" />
+</p>
+
+<p align="center">
+  <img src="/images/BO_BER.png"/>
+</p>
 
 ---
 ## BER Comparison of all Modulations
 
-![BER](/images/Totall_BER.png)
+<p align="center">
+  <img src="/images/Totall_BER.png"/>
+</p>
 
 
 
